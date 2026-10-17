@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "VishKat.Infrastructure/1.0.0": {
+        "dependencies": {
+          "VishKat.Application": "1.0.0"
+        },
+        "runtime": {
+          "VishKat.Infrastructure.dll": {}
+        }
+      },
+      "VishKat.Application/1.0.0": {
+        "dependencies": {
+          "VishKat.Domain": "1.0.0"
+        },
+        "runtime": {
+          "VishKat.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "VishKat.Domain/1.0.0": {
+        "runtime": {
+          "VishKat.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VishKat.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VishKat.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VishKat.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

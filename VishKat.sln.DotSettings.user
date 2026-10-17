@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=58c56b00_002Df81e_002D48fd_002Da74f_002Dc8e84271fcf4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Continuous Testing" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=78f671eb_002De9d3_002D4759_002Da52a_002D8ba4937f830a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DomainTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/nar/RiderProjects/ВышКат/VishKat.Tests" Presentation="&amp;lt;VishKat.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9f53a6e7_002Dc9e1_002D454f_002D8fa3_002D8984972ca6cd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Add_VehiclePassesServiceCheck_AddedSuccessfully" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::50EB8710-EFB3-4683-8BBD-20426AF0386D::net10.0::VishKat.Tests.KickSharingTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::50EB8710-EFB3-4683-8BBD-20426AF0386D::net10.0::VishKat.Tests.DomainTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::50EB8710-EFB3-4683-8BBD-20426AF0386D::net10.0::VishKat.Tests.PoliciesAndServicesTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::50EB8710-EFB3-4683-8BBD-20426AF0386D::net10.0::VishKat.Tests.InfrastructureConsoleTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

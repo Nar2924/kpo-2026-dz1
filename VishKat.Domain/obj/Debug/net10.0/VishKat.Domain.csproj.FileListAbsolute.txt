@@ -1,0 +1,11 @@
+/Users/nar/RiderProjects/ВышКат/VishKat.Domain/bin/Debug/net10.0/VishKat.Domain.deps.json
+/Users/nar/RiderProjects/ВышКат/VishKat.Domain/bin/Debug/net10.0/VishKat.Domain.dll
+/Users/nar/RiderProjects/ВышКат/VishKat.Domain/bin/Debug/net10.0/VishKat.Domain.pdb
+/Users/nar/RiderProjects/ВышКат/VishKat.Domain/obj/Debug/net10.0/VishKat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nar/RiderProjects/ВышКат/VishKat.Domain/obj/Debug/net10.0/VishKat.Domain.AssemblyInfoInputs.cache
+/Users/nar/RiderProjects/ВышКат/VishKat.Domain/obj/Debug/net10.0/VishKat.Domain.AssemblyInfo.cs
+/Users/nar/RiderProjects/ВышКат/VishKat.Domain/obj/Debug/net10.0/VishKat.Domain.csproj.CoreCompileInputs.cache
+/Users/nar/RiderProjects/ВышКат/VishKat.Domain/obj/Debug/net10.0/VishKat.Domain.dll
+/Users/nar/RiderProjects/ВышКат/VishKat.Domain/obj/Debug/net10.0/refint/VishKat.Domain.dll
+/Users/nar/RiderProjects/ВышКат/VishKat.Domain/obj/Debug/net10.0/VishKat.Domain.pdb
+/Users/nar/RiderProjects/ВышКат/VishKat.Domain/obj/Debug/net10.0/ref/VishKat.Domain.dll

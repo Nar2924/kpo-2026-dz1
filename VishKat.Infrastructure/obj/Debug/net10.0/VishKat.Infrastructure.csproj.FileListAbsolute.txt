@@ -1,0 +1,17 @@
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/bin/Debug/net10.0/VishKat.Infrastructure.deps.json
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/bin/Debug/net10.0/VishKat.Infrastructure.dll
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/bin/Debug/net10.0/VishKat.Infrastructure.pdb
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/bin/Debug/net10.0/VishKat.Application.dll
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/bin/Debug/net10.0/VishKat.Domain.dll
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/bin/Debug/net10.0/VishKat.Application.pdb
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/bin/Debug/net10.0/VishKat.Domain.pdb
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/obj/Debug/net10.0/VishKat.Infrastructure.csproj.AssemblyReference.cache
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/obj/Debug/net10.0/VishKat.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/obj/Debug/net10.0/VishKat.Infrastructure.AssemblyInfoInputs.cache
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/obj/Debug/net10.0/VishKat.Infrastructure.AssemblyInfo.cs
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/obj/Debug/net10.0/VishKat.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/obj/Debug/net10.0/VishKat..71F0952D.Up2Date
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/obj/Debug/net10.0/VishKat.Infrastructure.dll
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/obj/Debug/net10.0/refint/VishKat.Infrastructure.dll
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/obj/Debug/net10.0/VishKat.Infrastructure.pdb
+/Users/nar/RiderProjects/ВышКат/VishKat.Infrastructure/obj/Debug/net10.0/ref/VishKat.Infrastructure.dll
