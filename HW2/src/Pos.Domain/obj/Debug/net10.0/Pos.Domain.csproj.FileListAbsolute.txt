@@ -1,0 +1,11 @@
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Domain/bin/Debug/net10.0/Pos.Domain.deps.json
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Domain/bin/Debug/net10.0/Pos.Domain.dll
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Domain/bin/Debug/net10.0/Pos.Domain.pdb
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Domain/obj/Debug/net10.0/Pos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Domain/obj/Debug/net10.0/Pos.Domain.AssemblyInfoInputs.cache
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Domain/obj/Debug/net10.0/Pos.Domain.AssemblyInfo.cs
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Domain/obj/Debug/net10.0/Pos.Domain.csproj.CoreCompileInputs.cache
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Domain/obj/Debug/net10.0/Pos.Domain.dll
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Domain/obj/Debug/net10.0/refint/Pos.Domain.dll
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Domain/obj/Debug/net10.0/Pos.Domain.pdb
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Domain/obj/Debug/net10.0/ref/Pos.Domain.dll

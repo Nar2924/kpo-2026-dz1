@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZmFBAKeDnYU=",
+  "success": true,
+  "projectFilePath": "/Users/nar/RiderProjects/ВышКат/HW1/VishKat/VishKat.csproj",
+  "expectedPackageFiles": [
+    "/Users/nar/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.12/microsoft.extensions.dependencyinjection.10.0.12.nupkg.sha512",
+    "/Users/nar/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.12/microsoft.extensions.dependencyinjection.abstractions.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
