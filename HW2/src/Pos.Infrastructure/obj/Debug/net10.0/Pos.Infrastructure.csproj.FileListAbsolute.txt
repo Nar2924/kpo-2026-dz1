@@ -1,0 +1,17 @@
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/bin/Debug/net10.0/Pos.Infrastructure.deps.json
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/bin/Debug/net10.0/Pos.Infrastructure.dll
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/bin/Debug/net10.0/Pos.Infrastructure.pdb
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/bin/Debug/net10.0/Pos.Application.dll
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/bin/Debug/net10.0/Pos.Domain.dll
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/bin/Debug/net10.0/Pos.Application.pdb
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/bin/Debug/net10.0/Pos.Domain.pdb
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/obj/Debug/net10.0/Pos.Infrastructure.csproj.AssemblyReference.cache
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/obj/Debug/net10.0/Pos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/obj/Debug/net10.0/Pos.Infrastructure.AssemblyInfoInputs.cache
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/obj/Debug/net10.0/Pos.Infrastructure.AssemblyInfo.cs
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/obj/Debug/net10.0/Pos.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/obj/Debug/net10.0/Pos.Infr.75A01CEF.Up2Date
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/obj/Debug/net10.0/Pos.Infrastructure.dll
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/obj/Debug/net10.0/refint/Pos.Infrastructure.dll
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/obj/Debug/net10.0/Pos.Infrastructure.pdb
+/Users/nar/RiderProjects/KPO_HW_2/src/Pos.Infrastructure/obj/Debug/net10.0/ref/Pos.Infrastructure.dll
